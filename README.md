@@ -10,7 +10,6 @@ Turnstile data shows movement, routine, congestion, and how different areas “b
 311 complaints show stress points, annoyances, and what people care enough to report.
 The Humor Opportunity Score is a creative tool I built to find moments where these two worlds collide. These are the moments where a neighborhood’s flow and its complaints create some kind of irony, contrast, or unintentional comedy. It is more of a cultural lens than a strict model.
 
-Why This Fits My Literary and Cultural Studies Portfolio
 
 Even though this is a data project, the heart of it is interpretation.
 I treated the city like a text filled with patterns and contradictions.
